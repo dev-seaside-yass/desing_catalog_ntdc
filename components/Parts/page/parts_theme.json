@@ -1,0 +1,44 @@
+[
+  {
+    "title": "shadcn/ui パーツ集",
+    "count": "18 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/shadcn_ui_colect"
+  },
+  {
+    "title": "ボタンパーツ",
+    "count": "18 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/button_colect"
+  },
+  {
+    "title": "カードパーツ",
+    "count": "12 components",
+    "category": "Application UI",
+    "image": "/no_img.svg",
+    "url": "/parts/card_colect"
+  },
+  {
+    "title": "テーブルパーツ",
+    "count": "10 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/table_colect"
+  },
+  {
+    "title": "フォームパーツ",
+    "count": "10 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/form_colect"
+  },
+  {
+    "title": "チャートパーツ",
+    "count": "10 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/chart_colect"
+  }
+]

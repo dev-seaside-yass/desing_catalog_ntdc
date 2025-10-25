@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "2025年9月のオススメ照明",
+    "date": "2025.10.07",
+    "image": "/img/vertical/v_img01.jpg",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "title": "2025年9月のオススメ家具",
+    "date": "2025.10.07",
+    "image": "/img/vertical/v_img02.jpg",
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "title": "2025年9月のオススメインテリア小物",
+    "date": "2025.10.07",
+    "image": "/img/vertical/v_img03.jpg",
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "title": "2025年9月のオススメアート",
+    "date": "2025.10.07",
+    "image": "/img/vertical/v_img02.jpg",
+    "isNew": true
+  }
+]

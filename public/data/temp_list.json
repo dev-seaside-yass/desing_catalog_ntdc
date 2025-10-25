@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "メディカル系コーポレートページ",
+        "category": "メディカル",
+        "url": "/temple/sample01",
+        "image": "https://i.gyazo.com/748ca33a08237bae94582edc48e6e23d.png",
+        "createdAt": "2025/08/14 10:30",
+        "updatedAt": "2025/10/05 10:30"
+    },
+    {
+        "id": 2,
+        "title": "建築系コーポレートページ",
+        "category": "建築",
+        "url": "/temple/sample02",
+        "image": "https://i.gyazo.com/8dc5acfdf74b576dc1f91bd58a65854d.png",
+        "createdAt": "2025/10/05 10:30",
+        "updatedAt": "2025/10/05 10:30"
+    },
+    {
+        "id": 3,
+        "title": "ホテル系コーポレートページ",
+        "category": "娯楽施設",
+        "url": "/temple/sample03",
+        "image": "https://i.gyazo.com/77fafac950a1f1025b9b66ed067016b7.png",
+        "createdAt": "2025/10/11 10:00",
+        "updatedAt": "2025/10/11 10:00"
+    },
+    {
+        "id": 4,
+        "title": "インテリデザイン系ページ",
+        "category": "デザイン",
+        "url": "/temple/sample04",
+        "image": "https://i.gyazo.com/1aabc5b84aaadadf57aecd58c9c32a27.png",
+        "createdAt": "2025/10/13 10:00",
+        "updatedAt": "2025/10/13 10:00"
+    }
+]
