@@ -44,3 +44,6 @@ next-env.d.ts
 zz_inner_dev
 zz_inner_dev/*
 *.ipynb
+
+zz_inner_dev
+zz_inner_dev/*

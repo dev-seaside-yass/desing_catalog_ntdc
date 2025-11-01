@@ -1,10 +1,17 @@
 [
   {
     "title": "shadcn/ui パーツ集",
-    "count": "18 components",
+    "count": "5 components",
     "category": "Marketing UI",
     "image": "/no_img.svg",
     "url": "/parts/shadcn_ui_colect"
+  },
+  {
+    "title": "チャートパーツ",
+    "count": "10 components",
+    "category": "Marketing UI",
+    "image": "/no_img.svg",
+    "url": "/parts/chart_colect"
   },
   {
     "title": "ボタンパーツ",
@@ -33,12 +40,5 @@
     "category": "Marketing UI",
     "image": "/no_img.svg",
     "url": "/parts/form_colect"
-  },
-  {
-    "title": "チャートパーツ",
-    "count": "10 components",
-    "category": "Marketing UI",
-    "image": "/no_img.svg",
-    "url": "/parts/chart_colect"
   }
 ]

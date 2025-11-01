@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { GithubRepoUrl } from "@/components/Parts/git_repo_url";
-import urlConfig from "@/config/propaties";
 import { tv } from 'tailwind-variants';
 import { Button01 } from "@/components/Parts/page/shadcn_ui/button01";
 import { Button02 } from "@/components/Parts/page/shadcn_ui/button02";
